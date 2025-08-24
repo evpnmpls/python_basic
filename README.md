@@ -6,7 +6,7 @@
 - 网络请求等
 
 ## 快速开始
-1. 克隆仓库：
+1. 克隆仓库：https://github.com/evpnmpls/python_basic.git
 2. 进入项目并开始学习。
 
 ## 贡献
